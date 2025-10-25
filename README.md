@@ -24,3 +24,6 @@ The pipeline processes video footage, identifies the worker, and calculates the 
 2. It runs detection and tracking models to identify the worker.  
 3. Based on time intervals when the worker is visible, it estimates total working hours.  
 
+
+# this is the outpit of model for the video
+[🎬 Watch Demo](https://github.com/NimaDanesh04/VisionWorkTime/blob/main/prediction/output_video5.mp4)
