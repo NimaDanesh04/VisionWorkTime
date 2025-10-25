@@ -26,4 +26,4 @@ The pipeline processes video footage, identifies the worker, and calculates the 
 
 
 # this is the outpit of model for the video
-[🎬 Watch Demo](https://github.com/NimaDanesh04/VisionWorkTime/blob/main/prediction/output_video5.mp4)
+![Demo GIF](https://github.com/NimaDanesh04/VisionWorkTime/blob/main/prediction/demo.gif)
